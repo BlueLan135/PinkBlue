@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# PinkBlue
-=======
 # pinkblue
 
 A new Flutter project.
